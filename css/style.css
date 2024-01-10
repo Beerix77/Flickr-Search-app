@@ -1,0 +1,15 @@
+
+#results img {
+    padding-right: 7px;
+    cursor: pointer;
+}
+
+#results img:hover {
+    border: 1px solid red;
+}
+
+
+
+#searcForm {
+    padding-bottom: 2rem;
+}
